@@ -1,1 +1,1 @@
-# .github
+# sooii GmbH
